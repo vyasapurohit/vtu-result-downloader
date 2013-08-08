@@ -1,0 +1,1 @@
+Almost all colleges under VTU face the problem of downloading the results from VTU website and analyzing. This is a waste of time and can be easily automated. In this project we automate this task. The input is an xl sheet of USN's of all students whose results must be downloaded. The output is an xl file with all results of all given students
